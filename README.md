@@ -1,2 +1,2 @@
 # segundo-intento
-es el segundo repositorio que hago 
+es un intento para crear y clonar un repositorio desde github a min escritorio 
